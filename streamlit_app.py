@@ -4,7 +4,7 @@ import random
 # --- DATASET ---
 # Replicated from your previous mastery lists
 DATA = {
-      "prepositions": [
+      "Prepositions": [
         {"q": "The athlete sprinted _____ the finish line.", "options": ["across", "through", "over", "along"], "a": "across"},
         {"q": "The map was tucked _____ the brittle pages.", "options": ["between", "among", "inside", "within"], "a": "between"},
         {"q": "Jude practiced his footwork _____ sunset.", "options": ["until", "at", "during", "since"], "a": "until"},
@@ -56,7 +56,7 @@ DATA = {
         {"q": "They walked _____ the museum together.", "options": ["through", "across", "along", "around"], "a": "through"},
         {"q": "The cat is sleeping _____ the rug.", "options": ["on", "at", "in", "onto"], "a": "on"}
       ],
-      "editing": [
+      "Editing (Typing)": [
         {"q": "Fix the misspelled word: 'She wore beautiful JEWELRY.'", "a": "jewellery"},
         {"q": "Fix the misspelled word: 'The LION was very FEROSIOUS.'", "a": "ferocious"},
         {"q": "Fix the misspelled word: 'We stood in a long QUENE.'", "a": "queue"},
@@ -108,7 +108,7 @@ DATA = {
         {"q": "Fix the misspelled word: 'I am VERY happy.'", "a": "very"},
         {"q": "Fix the misspelled word: 'The sky is BRIGHT.'", "a": "bright"}
       ],
-      "cloze": [
+      "Grammar Cloze": [
         {"q": "The old art _____ was quiet and dusty.", "options": ["gallery", "museum", "studio", "hall"], "a": "gallery"},
         {"q": "As Jude stepped _____ the room, he saw paintings.", "options": ["into", "onto", "to", "at"], "a": "into"},
         {"q": "_____ the room was dark, he saw a photograph.", "options": ["Although", "Because", "Since", "Despite"], "a": "Although"},
