@@ -1,0 +1,26 @@
+{
+  "prepositions": [
+    {"q": "The athlete sprinted _____ the finish line.", "options": ["across", "through", "over", "along"], "a": "across"},
+    {"q": "The antique map was tucked _____ the pages.", "options": ["between", "among", "inside", "within"], "a": "between"},
+    {"q": "Jude practiced his footwork _____ sunset.", "options": ["until", "at", "during", "since"], "a": "until"},
+    {"q": "The predator remained motionless _____ the tall grass.", "options": ["among", "between", "beside", "inside"], "a": "among"},
+    {"q": "The hikers trekked _____ the summit.", "options": ["toward", "onto", "into", "past"], "a": "toward"}
+    /* Add 45 more here following this exact format */
+  ],
+  "editing": [
+    {"q": "Fix the misspelled word: 'She wore beautiful JEWELRY.'", "a": "jewellery"},
+    {"q": "Fix the misspelled word: 'The LION was very FEROSIOUS.'", "a": "ferocious"},
+    {"q": "Fix the misspelled word: 'We stood in a long QUENE.'", "a": "queue"},
+    {"q": "Fix the misspelled word: 'He is an INVINCIBLE opponent.'", "a": "invincible"},
+    {"q": "Fix the misspelled word: 'I will see you TOMMORO.'", "a": "tomorrow"}
+    /* Add 45 more here following this exact format */
+  ],
+  "cloze": [
+    {"q": "The old art _____ was quiet and dusty.", "options": ["gallery", "museum", "studio", "hall"], "a": "gallery"},
+    {"q": "As Jude stepped _____ the room, he saw paintings.", "options": ["into", "onto", "to", "at"], "a": "into"},
+    {"q": "_____ the room was dark, he saw a photograph.", "options": ["Although", "Because", "Since", "Despite"], "a": "Although"},
+    {"q": "Suddenly, his _____ rumbled with hunger.", "options": ["stomach", "stomack", "stomac", "stumack"], "a": "stomach"},
+    {"q": "He _____ decided to head home.", "options": ["finally", "finaly", "final", "finnaly"], "a": "finally"}
+    /* Add 45 more here following this exact format */
+  ]
+}
