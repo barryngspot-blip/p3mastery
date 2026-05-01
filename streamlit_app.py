@@ -160,7 +160,7 @@ DATA = {
         {"q": "The car _____ slowly down the street.", "options": ["moved", "move", "moves", "moving"], "a": "moved"},
         {"q": "He _____ his best in the exam.", "options": ["did", "do", "does", "doing"], "a": "did"}
       ]
-    }
+    
 }
 
 # --- SESSION STATE INITIALIZATION ---
